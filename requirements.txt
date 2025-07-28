@@ -3,4 +3,5 @@ openai
 dotenv
 phoenix-tracing
 rouge-score
+evaluate
 pytest
