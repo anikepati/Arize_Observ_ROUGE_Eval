@@ -1,7 +1,9 @@
-langchain
 openai
-dotenv
-phoenix-tracing
+langchain
+arize-phoenix
+arize
 rouge-score
-evaluate
+python-dotenv
 pytest
+pandas
+evaluate
